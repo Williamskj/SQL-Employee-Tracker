@@ -1,19 +1,28 @@
-# Employee-Management-System
+# SQL Employee Tracker
+
+## Table of Contents:
+  1. [Description](#description) 
+  2. [UserStory](#UserStory)  
+  3. [Contributing](#Contributing)
+  4. [License](#License)
+  5. [GitHub](#GitHub)
+  6. [VideoLink](#VideoLink)
+
 
 ## Description
-The Employee-Management-System provides a solution for managing a company's employees and their position using node, inquirer, and MySQL.  This command-line application provides a list of prompts that allow users to update and manipulate the employee database. 
+The purpose of this code is to add, view, and manage different parts of your business. Primarily your employees, departments, and roles.
 
-## Installations
-Node.js is necessary to run this application.  It is recommended that users copy the package.json file when initializing the npm.
+## UserStory
+AS A business owner
+I WANT to be able to view and manage the departments, roles, and employees in my company
+SO THAT I can organize and plan my business
 
-## Usage
-- add departments, roles, and employees
-- view departments, roles, and employees
-- update employee roles
+## License
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## Appearance and Schema
+## GitHub
+Williamskj
 
-![image](Terminal_View.png)
-
-![image](schema.png)
+## VideoLink
+https://watch.screencastify.com/v/syn41caZrWy770eW0wUv
 
