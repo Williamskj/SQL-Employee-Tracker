@@ -24,5 +24,5 @@ SO THAT I can organize and plan my business
 Williamskj
 
 ## VideoLink
-https://watch.screencastify.com/v/syn41caZrWy770eW0wUv
+https://drive.google.com/file/d/17GcC2RllRH9OtBHHrNxJN3z-QLHOdOfP/view
 
